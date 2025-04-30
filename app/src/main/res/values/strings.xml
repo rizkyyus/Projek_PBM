@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EcoZym</string>
+    <string name="app_logo">EcoZym Logo</string>
+    <string name="explore_app">Explore the app</string>
+    <string name="app_description">Now your waste management is in one place and transformed into valuable resources</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create account</string>
+    <string name="back_button">Back</string>
+    <string name="welcome_text">Hi, Welcome! 👋</string>
+    <string name="email_address">Email address</string>
+    <string name="your_email">Your email</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_in">Log in</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+</resources>
