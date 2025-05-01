@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468026989607",
+    "project_id": "ecozym-82247",
+    "storage_bucket": "ecozym-82247.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468026989607:android:d57f88f50abbd8693ec202",
+        "android_client_info": {
+          "package_name": "com.example.projekakhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSBPFhnNSNs433KGoOvrVRj42NjWqzcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
